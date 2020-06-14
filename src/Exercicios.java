@@ -44,7 +44,6 @@ public class Exercicios {
 	}
 	
 	
-	
 	/**
 	 * 4. Implemente, em uma classe qualquer, um método que recebe uma lista simplesmente encadeada de
 	 * double e retorna uma pilha estática (objeto StaticStack) com todos os elementos negativos da lista
